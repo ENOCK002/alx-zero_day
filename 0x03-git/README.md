@@ -1,1 +1,1 @@
-this is my zero day readme
+Starting to code today, so cool
